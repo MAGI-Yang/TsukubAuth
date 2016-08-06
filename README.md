@@ -10,6 +10,8 @@ The script will detect the network condition and auto re-connect if the authenti
 
 ### Usage:
 
-To start the script, run `bash auth_start.sh`
+###### Note: Use your own login-name and password instead of `xxxxxxxxx` in the file `auth_start.sh`
 
-To stop the script, run `bash auth_stop.sh`
+ 1. To start the script, run `bash auth_start.sh`
+
+ 2. To stop the script, run `bash auth_stop.sh`
